@@ -30,6 +30,7 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "grunt": "^1.6.1",
     "grunt-browserify": "^6.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
     "vite": "^5.2.0"
   }
 }
